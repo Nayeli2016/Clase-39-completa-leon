@@ -1,1 +1,2 @@
-# Clase-39-completa-leon
+# C40_Actividad de la maestra_Código boilerplate
+Actividad de la maestra
